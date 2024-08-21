@@ -1,5 +1,5 @@
 # Python_DataScience
-2024-07-29 ~ 2024-08-
+2024-07-29 ~ 2024-08-25
 
 파이썬으로 시작하는 데이터 사이언스
 www.boostcourse.org/ds112
